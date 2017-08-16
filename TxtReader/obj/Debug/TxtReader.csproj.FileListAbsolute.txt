@@ -1,0 +1,6 @@
+G:\MyProject\TxtReader\TxtReader\bin\Debug\TxtReader.exe.config
+G:\MyProject\TxtReader\TxtReader\bin\Debug\TxtReader.exe
+G:\MyProject\TxtReader\TxtReader\bin\Debug\TxtReader.pdb
+G:\MyProject\TxtReader\TxtReader\obj\Debug\TxtReader.csprojResolveAssemblyReference.cache
+G:\MyProject\TxtReader\TxtReader\obj\Debug\TxtReader.exe
+G:\MyProject\TxtReader\TxtReader\obj\Debug\TxtReader.pdb
